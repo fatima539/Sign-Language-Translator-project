@@ -45,7 +45,7 @@ const SignToTextScreen = () => {
             />
 
             <TouchableOpacity style={[styles.option, { backgroundColor: theme.backgroundColor, borderColor: theme.textColor }]} onPress={openCamera}>
-                <Text style={[styles.optionText, { color: theme.textColor }]}>📷 Open Camera</Text>
+                <Text style={[styles.optionText, { color: theme.textColor }]}>Open Camera</Text>
             </TouchableOpacity>
 
             {imageUri && (
@@ -118,3 +118,4 @@ const styles = StyleSheet.create({
 });
 
 export default SignToTextScreen;
+
