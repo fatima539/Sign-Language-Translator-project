@@ -3,8 +3,12 @@ A mobile application for American Sign Language (ASL) alphabet recognition with 
 
 Key Features:
 
- On-Device Inference — No internet required, works offline
- Fast — <100ms prediction time
- Private — Images never leave your device
- 99.38% Accuracy — Advanced landmark-based AI model
+ On-Device Inference — No internet required, works offline.
+ 
+ Fast — <100ms prediction time.
+ 
+ Private — Images never leave your device.
+ 
+ 99.38% Accuracy — Advanced landmark-based AI model.
+ 
  Camera & Gallery — Capture or select images
